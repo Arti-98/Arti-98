@@ -100,11 +100,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arti-98&show_icons=true&theme=radical" alt="Arti's GitHub Stats" />
-</p>
-<p align="center">
-   <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Arti-98&layout=compact" alt="Top Languages" />
-</p>
-
 ---
 
 ## 📫 Contact Me
