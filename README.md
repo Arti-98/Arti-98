@@ -46,7 +46,7 @@
 
 ## 🚀 Featured Projects
 
-### 📂 Productivity Suite – Manual Testing  
+### 📂 [Productivity Suite – Manual Testing](https://github.com/Arti-98/Productivity-)
 **Type:** Internal Project | **Focus:** Functional & UI Testing  
 - Executed manual test cases for modules like Task Manager, Notes, and Calendar  
 - Identified 25+ bugs across UI, usability, and logical flow  
@@ -55,7 +55,7 @@
 
 ---
 
-### 🛍️ Kohls.com – Automation + Security + Performance  
+### 🛍️ [Kohls.com – Automation + Security + Performance](https://github.com/Arti-98/Project-3)  
 **Type:** Live Web App | **Tech:** Selenium, JMeter, OWASP ZAP  
 - Built end-to-end automation scripts for login, search, checkout using Selenium + POM  
 - Conducted load tests on product listing and checkout pages using JMeter  
@@ -64,16 +64,16 @@
 
 ---
 
-### 🛒 Demowebshop.tricentis.com – Cypress Framework  
+### 🛒 [Demowebshop.tricentis.com – Cypress Framework](https://github.com/Arti-98/Project-1)  
 **Type:** Public Demo App | **Tech:** Cypress + JavaScript + Mocha  
-- Developed fast, flake-free test scripts for login, registration, cart, and wishlist  
+- Developed fast, flake-free test scripts for login, registration, cart, and wishlist 
 - Implemented reusable Page Object Model with Cypress best practices  
 - Validated API responses, page load times, and local storage behaviors  
 - Executed tests via GitHub Actions with Allure reporting
 
 ---
 
-### 🛍️ nopCommerce – Selenium Automation  
+### 🛍️ [nopCommerce – Selenium Automation](https://github.com/Arti-98/Project-2)  
 **Type:** Open Source eCommerce | **Tech:** Selenium + TestNG + Maven  
 - Created a structured automation framework covering login, product filter, and cart flows  
 - Added reusable utility classes for waits, logging, and data-driven testing  
