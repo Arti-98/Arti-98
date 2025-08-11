@@ -9,8 +9,8 @@
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/selenium-test-automation.png" />
-  <img src="https://img.icons8.com/color/48/postman-api.png" />
-  <img src="https://img.icons8.com/ios-filled/48/jira.png" />
+  <img src="https://img.icons8.com/dusk/48/postman-api.png" alt="Postman API" />
+  <img src="https://img.icons8.com/color/48/jira.png" alt="Jira" />
   <img src="https://img.icons8.com/color/48/github.png" />
   <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" />
   <img src="https://img.icons8.com/color/48/javascript.png" />
