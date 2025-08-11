@@ -43,10 +43,15 @@
 </p>
 ### :test_tube: Testing Skills
 - **Manual Testing**: Functional, Non-Functional, Regression, UAT, Smoke, Sanity
+
 - **Automation**: Selenium (Java), Cypress (JS), TestNG, Cucumber (BDD), POM
+  
 - **API Testing**: Postman, REST Assured
+  
 - **Bug & Test Management**: Jira, Zephyr
+  
 - **Performance Testing**: JMeter
+  
 - **Security Testing**: BurpSuite
 ---
 
