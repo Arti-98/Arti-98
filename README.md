@@ -105,7 +105,6 @@
 ## 📫 Contact Me
 
 📧 Email: [chamlearti95@gmail.com]  
-🌐 Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)  
 🔗 LinkedIn: [https://www.linkedin.com/in/Arti-PC/](https://www.linkedin.com/in/Arti-PC/)  
 📍 Location: [Latur, India]  
 
