@@ -42,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
 </p>
 ### :test_tube: Testing Skills
+
 - **Manual Testing**: Functional, Non-Functional, Regression, UAT, Smoke, Sanity
 
 - **Automation**: Selenium (Java), Cypress (JS), TestNG, Cucumber (BDD), POM
@@ -52,7 +53,7 @@
   
 - **Performance Testing**: JMeter
   
-- **Security Testing**: BurpSuite
+- **Security Testing**: Postman
 ---
 
 ## 🚀 Featured Projects
