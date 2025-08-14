@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Arti :wave:</h1>
 <h1 align="center">🧪 Quality Assurance Engineer | Manual & Automation Tester</h1>
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+QA+Engineer;Manual+%2B+Automation+Testing;API+Testing+with+Postman+&+REST+Assured;Performance+Testing+with+JMeter%26" alt="Typing SVG" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Manual%20Testing-Experienced-blue" />
   <img src="https://img.shields.io/badge/Automation-Cypress%20%7C%20Selenium-green" />
   <img src="https://img.shields.io/badge/Performance-JMeter-red" />
