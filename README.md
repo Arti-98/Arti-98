@@ -59,58 +59,38 @@
 - **Security Testing**: Postman
 ---
 
-## 🚀 Featured Projects
-
-### 📂 [Productivity Suite – Manual Testing](https://github.com/Arti-98/Productivity-)
-**Type:** Internal Project | **Focus:** Functional & UI Testing  
-- Executed manual test cases for modules like Task Manager, Notes, and Calendar  
-- Identified 25+ bugs across UI, usability, and logical flow  
-- Collaborated with devs on real-time issue resolution using JIRA  
-- Designed reusable test case templates for non-technical teams
-
----
-
-### 🛍️ [Kohls.com – Automation + Security + Performance](https://github.com/Arti-98/Project-3)  
-**Type:** Live Web App | **Tech:** Selenium, JMeter, OWASP ZAP  
-- Built end-to-end automation scripts for login, search, checkout using Selenium + POM  
-- Conducted load tests on product listing and checkout pages using JMeter  
-- Performed basic security scans (XSS, CSRF, open ports) with Burp Suite and ZAP  
-- Reported detailed findings in dashboards with actionable insights
-
----
-
-### 🛒 [Demowebshop.tricentis.com – Cypress Framework](https://github.com/Arti-98/Project-1)  
-**Type:** Public Demo App | **Tech:** Cypress + JavaScript + Mocha  
-- Developed fast, flake-free test scripts for login, registration, cart, and wishlist 
-- Implemented reusable Page Object Model with Cypress best practices  
-- Validated API responses, page load times, and local storage behaviors  
-- Executed tests via GitHub Actions with Allure reporting
-
----
-
-### 🛍️ [nopCommerce – Selenium Automation](https://github.com/Arti-98/Project-2)  
-**Type:** Open Source eCommerce | **Tech:** Selenium + TestNG + Maven  
-- Created a structured automation framework covering login, product filter, and cart flows  
-- Added reusable utility classes for waits, logging, and data-driven testing  
-- Handled dynamic elements and multi-browser support  
-- Implemented ExtentReports for detailed test run reports
-
----
-
 ## :bar_chart: GitHub Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Arti-98&theme=radical&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" alt="Arti's GitHub Streak" />
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arti-98&show_icons=true&theme=radical" alt="Arti's GitHub Stats" />
+  <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arti-98&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ---
 
-## 📫 Contact Me
-
-📧 Email: [chamlearti95@gmail.com]  
-🔗 LinkedIn: [https://www.linkedin.com/in/Arti-PC/](https://www.linkedin.com/in/Arti-PC/)  
-📍 Location: [Latur, India]  
-
+## :jigsaw: Fun Facts
+- :test_tube: Writing test cases like a coder, thinking like a user.
+- :speech_balloon: Ask me about **Selenium**, **Cypress**, **Bug Reporting** or **Test Cases**
+- :brain: I believe: *Every failed test teaches something new.*
+- :pushpin: Currently working on: **Automation Projects**
+- :memo: I write notes and mindmaps to simplify complex testing concepts
 ---
 
- 🚀 **Driving product excellence through strategic testing and analysis.** 🧪📊
+## :test_tube: Currently Practicing
+- Sharpening core skills in  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height="20"/>
+- Practicing real-time automation scenarios with **Selenium WebDriver**
+- I’m constantly sharpening my skills in **BDD (Cucumber)**, **POM (Page Object Model)**, and **API Testing**.
+- **Advanced Automation Frameworks** and **Performance Testing**
+---
+
+### :mailbox: Connect With Me
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arti-98)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/Arti-PC/)
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chamlearti95@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=Arti-98&label=Profile%20views&color=0e75b6&style=flat" alt="Arti-98" />
+<p align="center">:sparkles: “Thanks for Visiting!,:mag: Let’s get Driving product excellence through strategic testing and analysis!” :sparkles:</p>
+---
+
+
